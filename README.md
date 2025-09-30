@@ -33,15 +33,20 @@ Create word art with default settings:
 ./gh-wordart.sh joshi4 HELLO
 ```
 
+![Hello!](./screenshots/hello.png)
+
 Create word art with custom commit count:
 ```bash
 ./gh-wordart.sh joshi4 SAVVY --num-commits 60
 ```
+![Savvy](./screenshots/savvy.png)
 
 Create word art for a specific past year:
 ```bash
 ./gh-wordart.sh joshi4 HASKELL --year 2014
 ```
+
+![Haskell](./screenshots/haskell.png)
 
 ## How It Works
 
